@@ -1,0 +1,27 @@
+-- onli aliases
+minetest.register_alias("hades_extramaterials:brass_block","basic_materials:brass_block");
+minetest.register_alias("hades_extramaterials:brass_ingot","basic_materials:brass_ingot");
+minetest.register_alias("hades_extramaterials:cement_block","basic_materials:cement_block");
+minetest.register_alias("hades_extramaterials:chain_brass","basic_materials:chain_brass");
+minetest.register_alias("hades_extramaterials:chainlink_brass","basic_materials:chainlink_brass");
+minetest.register_alias("hades_extramaterials:chainlink_steel","basic_materials:chainlink_steel");
+minetest.register_alias("hades_extramaterials:chain_steel","basic_materials:chain_steel");
+minetest.register_alias("hades_extramaterials:concrete_block","basic_materials:concrete_block");
+minetest.register_alias("hades_extramaterials:copper_strip","basic_materials:copper_strip");
+minetest.register_alias("hades_extramaterials:copper_wire","basic_materials:copper_wire");
+minetest.register_alias("hades_extramaterials:empty_spool","basic_materials:empty_spool");
+minetest.register_alias("hades_extramaterials:energy_crystal_simple","basic_materials:energy_crystal_simple");
+minetest.register_alias("hades_extramaterials:gear_steel","basic_materials:gear_steel");
+minetest.register_alias("hades_extramaterials:gold_wire","basic_materials:gold_wire");
+minetest.register_alias("hades_extramaterials:heating_element","basic_materials:heating_element");
+minetest.register_alias("hades_extramaterials:ic","basic_materials:ic");
+minetest.register_alias("hades_extramaterials:motor","basic_materials:motor");
+minetest.register_alias("hades_extramaterials:oil_extract","basic_materials:oil_extract");
+minetest.register_alias("hades_extramaterials:padlock","basic_materials:padlock");
+minetest.register_alias("hades_extramaterials:plastic_strip","basic_materials:plastic_strip");
+minetest.register_alias("hades_extramaterials:silver_wire","basic_materials:silver_wire");
+minetest.register_alias("hades_extramaterials:steel_bar","basic_materials:steel_bar");
+minetest.register_alias("hades_extramaterials:steel_strip","basic_materials:steel_strip");
+minetest.register_alias("hades_extramaterials:steel_wire","basic_materials:steel_wire");
+minetest.register_alias("hades_extramaterials:terracotta_base","basic_materials:terracotta_base");
+minetest.register_alias("hades_extramaterials:wet_cement","basic_materials:wet_cement");
